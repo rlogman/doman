@@ -1,5 +1,5 @@
-var AUTH0_CLIENT_ID='14MrUUfzDjKlVLGiTZVPdBciH3hJv31g';
-var AUTH0_DOMAIN='doman.auth0.com';
-var AUTH0_CALLBACK_URL='http://localhost/doman/callback.html';
-var AUTH0_AUDIENCE='https://doman.auth0.com/api/v2/';
-var AUTH0_SILENT_AUTH_REDIRECT='http://localhost/doman/silent';
+var AUTH0_CLIENT_ID = 'Kwpb9qj28WTasyX6C9rKBIvq3969hMMO';
+var AUTH0_DOMAIN = 'rlogman.us.auth0.com';
+var AUTH0_CALLBACK_URL = 'http://localhost:3000/callback.html';
+var AUTH0_AUDIENCE = 'https://rlogman.us.auth0.com/api/v2/';
+var AUTH0_SILENT_AUTH_REDIRECT = 'http://localhost:3000/silent';
